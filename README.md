@@ -1,7 +1,7 @@
 # seleniumExercise
-This exercise have the purpose of test your avilities using Selenium python library. </br>
+This exercise want to test your abilities using Selenium python library. </br>
 To do this exercise is mandatory to have a webdriver downloaded.</br>
-Following are the goals, the description and the important things know:
+Following are the goals, the description and the important things to know:
 
     Goals of this exercise:
         - Learn about Selenium library
