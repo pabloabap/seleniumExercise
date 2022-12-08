@@ -136,3 +136,4 @@ if __name__ == "__main__":
     # purchase1.set_postal_code_accept_cookies('08014')
     # purchase1.add_products()
     # purchase1.cart_ticket()
+    # purchase1.shopping_ticket()
