@@ -5,10 +5,10 @@ Following are the goals, the description and the important things to know:
 
     Goals of this exercise:
         - Learn about Selenium library
-        - Find web elements using different Selenium methods (css selectors, id, xpath, tag name)
+        - Find web elements using different Selenium methods (css selectors, id, xpath, tag name).
         - Intereact with web elements throught clicking, sending keys and cleaning commands.
-        - Extract data from the web
-        - Read and write file
+        - Extract data from the web.
+        - Read and write files.
 
     Description:
         You have a dinner with some friends on your house tomorrow. You created a list of products that you need to prepare it
