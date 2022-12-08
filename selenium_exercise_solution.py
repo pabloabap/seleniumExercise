@@ -205,7 +205,7 @@ class purchase():
             element_info['total_price'] = '{:.2f} €'.format(int(element_info['quantity'].split()[0])*float(element_info['unit_price'].split()[0]))
             print(element_info)
             self.shopping_cart.append(element_info)
-        self.shopping_cart.append({'Total de la purchase':'{:.2f} €'.format(sum([float(item['total_price'].split()[0]) for item in self.shopping_cart]))})
+        self.shopping_cart.append({'Total purchase':'{:.2f} €'.format(sum([float(item['total_price'].split()[0]) for item in self.shopping_cart]))})
         self.shopping_ticket()
 
     def shopping_ticket(self):
