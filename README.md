@@ -13,9 +13,9 @@ Following are the goals, the description and the important things to know:
     Description:
         You have a dinner with some friends in your house tomorrow. You created a list of products that you need to prepare it
         and now is the moment to buy it online.
-        From "purchase_list.csv" file which contains the category, the product and the amount of product to buy add all
-        the products to the cart and extract its name, unit price and total price of each product and total price of the
-        purchase. Export this details to a file named "purchase_ticket.txt".
+        From "purchase_list.csv" file which contain the category, the product and the amount of product to buy add all
+        the products to the cart and extract its name, unit price, total price of each product and total price of the
+        purchase. Export these details to a file named "purchase_ticket.txt".
     ________________________________________________________________________________________________________________________
         **IMPORTANT**: 
         - The product selected must have the cheapest unit price of its section.
